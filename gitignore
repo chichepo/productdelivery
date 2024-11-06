@@ -1,0 +1,12 @@
+# Python
+<strong>pycache</strong>/
+*.py[cod]
+*$py.class<p></p>
+<h1>Virtual Environment</h1>
+<p>venv/
+env/
+.env</p>
+<h1>IDE files</h1>
+<p>.vscode/
+.idea/</p>
+<h1>OS generated files</h1>

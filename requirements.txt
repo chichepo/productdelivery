@@ -1,0 +1,9 @@
+# requirements.txt
+
+# This project is compatible with Python 3.9 and above
+python>=3.9
+
+# examples
+# requests==2.26.0  # For making HTTP requests (e.g., to Slack API)
+# slackclient==2.9.3  # For Slack integration
+# boto3==1.18.50  # For AWS S3 integration

@@ -1,0 +1,17 @@
+{
+    "products": [
+      {
+        "name": "ProductA",
+        "scheduled_time": "10:00",
+        "deploy_targets": ["Artifactory", "S3"],
+        "notification_channels": ["Mail", "Slack"]
+      },
+      {
+        "name": "ProductB",
+        "scheduled_time": "14:30",
+        "deploy_targets": ["Nexus"],
+        "notification_channels": ["Slack"]
+      }
+    ]
+  }
+  
